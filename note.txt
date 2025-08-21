@@ -1,0 +1,4 @@
+ការ សរសេរ website Movie Step by Step
+- Setup Project
+    - floderអត់ត្រូវមានfileណាមួយឡើយ
+    > npx --yes create-react-app@5.1.0 .
