@@ -1,4 +1,11 @@
 ការ សរសេរ website Movie Step by Step
-- Setup Project
-    - floderអត់ត្រូវមានfileណាមួយឡើយ
-    > npx --yes create-react-app@5.1.0 .
+52. The Beginning
+    - Setup Project
+        - floderអត់ត្រូវមានfileណាមួយឡើយ
+        > npx --yes create-react-app@5.1.0 .
+
+54. Dependencies
+> npm install react-router-dom
+> npm audit fix
+> npm install @alan-ai/alan-sdk-web @mui/icons-material @mui/material @mui/styles @reduxjs/toolkit axios react-redux --legacy-peer-deps
+> npm install @emotion/react @emotion/styled --legacy-peer-deps
